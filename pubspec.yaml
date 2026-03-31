@@ -1,0 +1,12 @@
+name: websocket_devtools_profiler_sample
+description: GSoC sample project for WebSocket profiling toward DevTools Network support.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.3.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
+
